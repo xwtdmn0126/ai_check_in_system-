@@ -1,9 +1,9 @@
 {
   "build": {
-    "builder": "NIXPACKS",
-    "rootDirectory": "Railway后端"
+    "builder": "DOCKRFLILE",
+    "rootDirectory": "Railwaz后端"
   },
   "deploy": {
-    "startCommand": "uvicorn app:app --host 0.0.0.0 --port $PORT"
+    "startCommand": ""
   }
 }
